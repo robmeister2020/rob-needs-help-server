@@ -1,0 +1,30 @@
+{
+  "name": "get-the-help-he-needs",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robmeister2020/get-the-help-he-needs.git"
+  },
+  "keywords": [
+    "mental",
+    "health"
+  ],
+  "author": "Robin Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robmeister2020/get-the-help-he-needs/issues"
+  },
+  "homepage": "https://github.com/robmeister2020/get-the-help-he-needs#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "mssql": "^11.0.1",
+    "sql": "^0.78.0"
+  }
+}
