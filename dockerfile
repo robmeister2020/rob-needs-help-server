@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR .
+WORKDIR ./rob-needs-help-server
 COPY . .
 
 RUN cd src && npm install
